@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\code_hoc\\QLBDAN_nh\u00F3m7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|c:\\code_hoc\\qlbdan_nh\u00F3m7\\quanlybandoannhanh\\ql_gioithieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|solutionrelative:quanlybandoannhanh\\ql_gioithieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|c:\\code_hoc\\qlbdan_nh\u00F3m7\\quanlybandoannhanh\\ql_bandoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|solutionrelative:quanlybandoannhanh\\ql_bandoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|c:\\code_hoc\\qlbdan_nh\u00F3m7\\quanlybandoannhanh\\ql_bandoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|solutionrelative:quanlybandoannhanh\\ql_bandoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ql_GioiThieu.cs [Design]",
-              "DocumentMoniker": "C:\\code_hoc\\QLBDAN_nh\u00F3m7\\QuanLyBanDoAnNhanh\\ql_GioiThieu.cs",
-              "RelativeDocumentMoniker": "QuanLyBanDoAnNhanh\\ql_GioiThieu.cs",
-              "ToolTip": "C:\\code_hoc\\QLBDAN_nh\u00F3m7\\QuanLyBanDoAnNhanh\\ql_GioiThieu.cs [Design]",
-              "RelativeToolTip": "QuanLyBanDoAnNhanh\\ql_GioiThieu.cs [Design]",
+              "Title": "ql_bandoan.cs",
+              "DocumentMoniker": "C:\\code_hoc\\QLBDAN_nh\u00F3m7\\QuanLyBanDoAnNhanh\\ql_bandoan.cs",
+              "RelativeDocumentMoniker": "QuanLyBanDoAnNhanh\\ql_bandoan.cs",
+              "ToolTip": "C:\\code_hoc\\QLBDAN_nh\u00F3m7\\QuanLyBanDoAnNhanh\\ql_bandoan.cs",
+              "RelativeToolTip": "QuanLyBanDoAnNhanh\\ql_bandoan.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwE8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T08:42:20.127Z",
+              "WhenOpened": "2024-04-11T09:15:30.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ql_bandoan.cs [Design]",
+              "DocumentMoniker": "C:\\code_hoc\\QLBDAN_nh\u00F3m7\\QuanLyBanDoAnNhanh\\ql_bandoan.cs",
+              "RelativeDocumentMoniker": "QuanLyBanDoAnNhanh\\ql_bandoan.cs",
+              "ToolTip": "C:\\code_hoc\\QLBDAN_nh\u00F3m7\\QuanLyBanDoAnNhanh\\ql_bandoan.cs [Design]",
+              "RelativeToolTip": "QuanLyBanDoAnNhanh\\ql_bandoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:15:27.747Z",
               "EditorCaption": " [Design]"
             }
           ]

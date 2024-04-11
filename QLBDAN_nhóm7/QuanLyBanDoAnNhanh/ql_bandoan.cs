@@ -74,7 +74,7 @@ namespace QuanLyBanDoAnNhanh
                 
                 switch (item.Status)
                 {
-                    case "Trống":
+                    case "":
                         btn.BackColor = Color.Bisque;
                         break;
                     default:
