@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code_hoc\\QLBDAN_nh\u00F3m7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|c:\\code_hoc\\qlbdan_nh\u00F3m7\\quanlybandoannhanh\\ql_gioithieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|solutionrelative:quanlybandoannhanh\\ql_gioithieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ql_GioiThieu.cs [Design]",
+              "DocumentMoniker": "C:\\code_hoc\\QLBDAN_nh\u00F3m7\\QuanLyBanDoAnNhanh\\ql_GioiThieu.cs",
+              "RelativeDocumentMoniker": "QuanLyBanDoAnNhanh\\ql_GioiThieu.cs",
+              "ToolTip": "C:\\code_hoc\\QLBDAN_nh\u00F3m7\\QuanLyBanDoAnNhanh\\ql_GioiThieu.cs [Design]",
+              "RelativeToolTip": "QuanLyBanDoAnNhanh\\ql_GioiThieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:42:20.127Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
